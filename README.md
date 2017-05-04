@@ -3,6 +3,6 @@ Following along with the website - might not work too well due to Python Version
 
 All lessons taken from the site [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
 
-Currently on [Exercise Four](https://learnpythonthehardway.org/book/ex4.html)
+Currently on [Exercise Thirteen](https://learnpythonthehardway.org/book/ex13.html)
 
 
